@@ -1,0 +1,34 @@
+.intro{
+    background-color: burlywood;
+}
+.middle{
+    background-color: rgb(245, 223, 194);
+}
+.get-protected{
+background-color: rgb(231, 208, 173);
+}
+
+.small-img:hover{
+    transform: scale(1.1);
+}
+.small-img{
+    height: 50px;
+    width: 50px;
+}
+.newsletter{
+    height: 50px;
+    width: 70%;
+    border-radius: 15px;
+}
+.input-btn{
+    font-size: 16px;
+    padding: 10px;
+    height: 70;
+}
+.foot{
+    color: #fff;
+}
+.foot:hover{
+    color: cornsilk;
+    text-decoration: none;
+}
