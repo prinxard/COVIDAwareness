@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Gotu|Montserrat|Roboto&display=swap');
 
+body{
+    font-family: 'Gotu', sans-serif !important;
+}
+
 .intro{
     background-color: burlywood;
 }
 .middle{
     background-color: rgb(245, 223, 194);
-    font-family: 'Gotu', sans-serif;
+    /* font-family: 'Gotu', sans-serif; */
 }
 .get-protected{
 background-color: rgb(231, 208, 173);
